@@ -4,6 +4,8 @@ public class Ogrenci {
 
         System.out.println("merhaba2");
 
+        System.out.println("merhaba 3");
+
 
     }
 }
